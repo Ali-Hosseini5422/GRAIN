@@ -1,0 +1,11 @@
+variant,sw,dyn_regret
+"Full GRAIN",0.93,42.1
+"w/o GSSM",0.84,56.4
+"w/o RCAS",0.86,48.9
+"w/o Hierarchy",0.83,49.7
+"Exact (non-smoothed) payments",0.91,43.8
+"w/o Collusion-Resist.",0.90,44.2
+"w/o Anticipation",0.88,47.1
+"w/o Adaptive MoE",0.89,45.6
+"Fixed learning rate",0.88,51.2
+"Single-parameter reduction",0.79,61.5

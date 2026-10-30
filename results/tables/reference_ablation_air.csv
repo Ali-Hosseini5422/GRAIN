@@ -1,0 +1,11 @@
+variant,social_welfare_ratio,dynamic_regret,mean_utility_gain,mean_truth_cost
+"Full GRAIN",0.781998,246.362212,0.009177,0.009656
+"w/o GSSM",0.834206,187.361619,0.009258,0.009928
+"w/o RCAS",0.779767,248.883719,0.007931,0.008570
+"w/o Hierarchy",0.832596,189.182024,0.009177,0.009656
+"Exact (non-smoothed) payments",0.781998,246.362212,0.009177,0.009656
+"w/o Collusion-Resist.",0.781998,246.362212,0.009177,0.009656
+"w/o Anticipation",0.781998,246.362212,0.009177,0.009656
+"w/o Adaptive MoE",0.787047,240.655929,0.010949,0.011624
+"Fixed learning rate",0.590738,462.502419,0.008277,0.010233
+"Single-parameter reduction",0.764691,352.890187,0.000083,0.008293

@@ -1,0 +1,20 @@
+{
+  "beijing": {
+    "title": "Beijing Multi-Site Air-Quality (PRSA)",
+    "uci": "https://archive.ics.uci.edu/dataset/501/beijing+multi+site+air+quality+data",
+    "download": "https://archive.ics.uci.edu/static/public/501/beijing+multi+site+air+quality+data.zip",
+    "doi": "10.24432/C5RK5G",
+    "kaggle": "https://www.kaggle.com/datasets/manojkumard28/beijing-air-quality-data-dataset",
+    "kaggle_slug": "manojkumard28/beijing-air-quality-data-dataset",
+    "window": "12 stations \u00d7 first 720 hours from 2013-03-01, NA forward-filled"
+  },
+  "traffic": {
+    "title": "METR-LA traffic speed (Caltrans PeMS)",
+    "paper": "https://github.com/liyaguang/DCRNN",
+    "download": "https://huggingface.co/datasets/TorchSpatiotemporal/ProcessedDatasets/resolve/v1.0.0/traffic/metr_la.zip",
+    "pems": "https://pems.dot.ca.gov/",
+    "kaggle": "https://www.kaggle.com/datasets/orvile/traffic-and-weather-datasets",
+    "kaggle_slug": "orvile/traffic-and-weather-datasets",
+    "window": "32 sensors \u00d7 first 288 steps (5 min), farthest-point sample, no missing values"
+  }
+}

@@ -1,0 +1,9 @@
+method,year,multi_param,approx_dsic,dyn_regret,graph,pareto,collusion
+MST/MMT,2015,No,Exact (1-param),—,No,No,No
+SA-WGRA,2024,No,No,—,Social,No,No
+MHDIM,2025,Partial,No,—,Multi-plat.,No,No
+HMOM-MCS,2026,Partial,No,—,No,Yes,No
+MOFARO,2026,Partial,No,—,No,Yes,No
+DPI-MDR,2026,Yes,Detection,—,No,Partial,Partial
+GC-MoE,2026,No,No,—,Partial,No,No
+GRAIN,2026,Yes,ε-DSIC,Õ(T^(2/3) P_T^(1/3)),GSSM,RCAS,Yes
